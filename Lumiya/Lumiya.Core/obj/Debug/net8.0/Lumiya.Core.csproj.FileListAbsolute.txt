@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\bin\Debug\net8.0\Lumiya.Core.deps.json
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\bin\Debug\net8.0\Lumiya.Core.runtimeconfig.json
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\bin\Debug\net8.0\Lumiya.Core.dll
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\bin\Debug\net8.0\Lumiya.Core.pdb
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.dll
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\refint\Lumiya.Core.dll
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.pdb
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\Lumiya.Core.genruntimeconfig.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Core\obj\Debug\net8.0\ref\Lumiya.Core.dll

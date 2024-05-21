@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\bin\Debug\net8.0\Lumiya.Data.deps.json
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\bin\Debug\net8.0\Lumiya.Data.runtimeconfig.json
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\bin\Debug\net8.0\Lumiya.Data.dll
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\bin\Debug\net8.0\Lumiya.Data.pdb
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\bin\Debug\net8.0\Lumiya.Core.dll
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\bin\Debug\net8.0\Lumiya.Core.pdb
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.D.ED5A69FA.Up2Date
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.dll
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\refint\Lumiya.Data.dll
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.pdb
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\Lumiya.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\Lumbia_MVC\Lumiya\Lumiya.Data\obj\Debug\net8.0\ref\Lumiya.Data.dll
